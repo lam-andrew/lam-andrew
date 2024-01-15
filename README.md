@@ -20,12 +20,9 @@
 <img align="left" alt="Java" width="50px" title="Jenkins" style="cursor:pointer; padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="Java" width="50px" title="pandas" style="cursor:pointer; padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="Java" width="50px" title="Git" style="cursor:pointer; padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<!--
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src=""/>
--->
 <br/><br/>
 
-#  
+#
 
 ### 📊 Stats
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=lam-andrew&show_icons=true&theme=city_lights)
