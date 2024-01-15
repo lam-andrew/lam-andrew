@@ -27,7 +27,9 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lam-andrew&layout=compact&theme=city_lights)
 
 ### 📫 How to reach me:
-#  [LinkedIn](https://www.linkedin.com/in/andrewlam856)
+#  
+[LinkedIn](https://www.linkedin.com/in/andrewlam856)
+andrewlam2193@gmail.com
 
 <!--
 Here are some ideas to get you started:
