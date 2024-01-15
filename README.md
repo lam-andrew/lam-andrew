@@ -29,7 +29,7 @@
 
 ### 📊 Stats
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=lam-andrew&show_icons=true&theme=city_lights)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lam-andrew)](https://github.com/lam-andrew/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lam-andrew&layout=compact)
 
 <!--
 Here are some ideas to get you started:
