@@ -26,11 +26,13 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=lam-andrew&show_icons=true&theme=city_lights)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lam-andrew&layout=compact&theme=city_lights)
 
+### 📫 How to reach me:
+#  [LinkedIn](https://www.linkedin.com/in/andrewlam856)
+
 <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
