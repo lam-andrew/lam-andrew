@@ -1,5 +1,6 @@
 ### Hi there, I'm Andrew 👋
-
+A software engineer based in California.
+Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and the work that I have done
 
 
 
