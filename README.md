@@ -23,7 +23,7 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 #
 
 ### Projects
-[Personal Portfolio](https://www.andrewlam.tech/) {:target="_blank"}  
+[Personal Portfolio](URL https://www.andrewlam.tech/ target="_blank")   
 [Spotify API Application](https://spotify-music-recommender-al.vercel.app/) {:target="_blank"}  
 
 ### 📊 Stats
