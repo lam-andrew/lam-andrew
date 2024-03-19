@@ -24,7 +24,7 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 
 ### Projects
 <a href="https://andrewlam.tech" target="_blank">Personal Portfolio</a>  
-<a href="https://spotify-music-recommender-al.vercel.app/">Spotify API Application</a>  
+<a href="https://spotify-music-recommender-al.vercel.app/" target="_blank">Spotify API Application</a>  
 
 ### 📊 Stats
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=lam-andrew&show_icons=true&theme=city_lights)
@@ -32,7 +32,7 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 
 ### 📫 How to reach me:
 Contact me through:  
-[LinkedIn](https://www.linkedin.com/in/andrewlam856) {:target="_blank"}  
+[LinkedIn](https://www.linkedin.com/in/andrewlam856)  
 andrewlam2193@gmail.com
 
 <!--
