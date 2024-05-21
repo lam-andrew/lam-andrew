@@ -23,9 +23,9 @@ Check out my [portfolio](https://www.andrewlam.tech) to learn more about me and 
 #
 
 ### Projects
-<a href="https://andrewlam.tech" target="_blank">Personal Portfolio</a>
-<a href="https://secure-chat-app-ui-c1870d80b3f7.herokuapp.com/" target="_blank">Secure Client-Server Chat Application</a>
-<a href="https://nextsteptracking-a1816f8659c4.herokuapp.com/" target="_blank">Next Step Job Application Tracker</a>
+<a href="https://andrewlam.tech" target="_blank">Personal Portfolio</a>  
+<a href="https://secure-chat-app-ui-c1870d80b3f7.herokuapp.com/" target="_blank">Secure Client-Server Chat Application</a>  
+<a href="https://nextsteptracking-a1816f8659c4.herokuapp.com/" target="_blank">Next Step Job Application Tracker</a>  
 <a href="https://spotify-music-recommender-al.vercel.app/" target="_blank">Spotify API Application</a>  
 
 ### 📊 Stats
